@@ -52,6 +52,6 @@ terraform.rc
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+terraform-project.pem.pub
 >>>>>>> b3b58a481f2bfc73343857bc0258a0632aad41a5
 
-terraform-project.pem.pub
