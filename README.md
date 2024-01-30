@@ -489,6 +489,9 @@ sudo systemctl start mysqld
 sudo systemctl enable mysqld
 ```
 
+If you are facing issues installing MySQL client, refer this link:
+[Thanks to Stack Overflow](https://stackoverflow.com/questions/76461475/trying-to-install-mysql-server-on-aws-ec2-amazon-linux-but-getting-problem-con)
+
 Once that MySQL client is installed, let’s try connecting to the RDS instance.
 
 - The <database-endpoint> is going to be your database_endpoint from the terraform output
